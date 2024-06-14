@@ -259,14 +259,12 @@ the Jupyter ecosystem. This is *not* a comprehensive reference of every aspect
 of Jupyter, but rather a big-picture summary that should help illustrate some
 important parts that were discussed earlier.
 
-If you are completely new to *Jupyter*, the project's [About](https://docs.jupyter.org/en/latest/#sub-project-documentation)
-page is good reading that will introduce you to many of the different subprojects.
-
-If you want to know more about the organizational structure, check out the
-[Governance](https://jupyter.org/governance/overview.html) pages.
-
-And if you would like to contribute to the project, have a look at the
-[Get Involved](https://jupyter.org/community#join-the-jupyter-community) page.
+- If you are completely new to *Jupyter*, the project's [About](https://docs.jupyter.org/en/latest/#sub-project-documentation)
+  page is good reading that will introduce you to many of the different subprojects.
+- If you want to know more about the organizational structure, check out the
+  [Governance](https://jupyter.org/governance/overview.html) pages.
+- And if you would like to contribute to the project, have a look at the
+  [Get Involved](https://jupyter.org/community#join-the-jupyter-community) page.
 
 The graph below presents the best known software components of the Project.
 
